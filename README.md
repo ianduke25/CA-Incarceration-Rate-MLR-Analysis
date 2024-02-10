@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-This project showcases the application of advanced data acquisition techniques and sophisticated multiple linear regression analysis. Exploring the relationship between socioeconomic factors and California incarceration rates, we aim to identify significant predictors of incarceration rates and suggest potential policy interventions to mitigate these rates within vulnerable communities. This project was completed in collaboration with Kefeng Xiao and Vidith Balasa.
+This project showcases the application of advanced data acquisition techniques and sophisticated multiple linear regression analysis. Exploring the relationship between socioeconomic factors and California incarceration rates, we aim to identify significant predictors of incarceration rates and suggest potential policy interventions to mitigate rates within vulnerable communities. This project was completed in collaboration with Kefeng Xiao and Vidith Balasa.
 
 ## Abstract
 
