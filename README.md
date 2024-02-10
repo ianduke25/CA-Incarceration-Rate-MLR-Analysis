@@ -17,7 +17,7 @@ Data was sourced from The Prison Policy Initiative and combined with tract-level
 
 ## Methods
 
-The project utilized multiple linear regression, with preliminary analysis to check assumptions-- addressing multicollinearity, influential points, heteroscedasticity, normality, and linearity assumptions. Different model selection techniques were employed to refine the regression model.
+The project utilized multiple linear regression, with preliminary analysis to check assumptions-- addressing multicollinearity, influential points, heteroscedasticity, normality, and linearity. Different model selection techniques were employed to refine the regression model.
 
 ## How to Use This Repository
 
