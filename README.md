@@ -9,7 +9,7 @@ This project showcases the application of advanced data acquisition techniques a
 
 ## Abstract
 
-Our study delves into how community demographics, including race, urban-rural categorizations, proportions of teenagers in communities, unemployment rates, poverty rates, population density, and education levels correlate with incarceration rates. Utilizing data from The Prison Policy Initiative and the United States Census Bureau, we crafted linear regression models to understand and predict the influence of these variables on incarceration rates across California's census tracts.
+Our study delves into how community demographics, including race, urban-rural categorizations, proportions of teenagers in communities, unemployment rates, poverty rates, population density, and education levels correlate with incarceration rates. Utilizing data from The Prison Policy Initiative and the United States Census Bureau, we crafted linear regression models to explore the influence of these variables on incarceration rates across California's census tracts.
 
 ## Dataset
 
