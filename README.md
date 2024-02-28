@@ -5,15 +5,15 @@
 
 ## Project Overview
 
-This project showcases the application of advanced data acquisition techniques and sophisticated multiple linear regression analysis. Exploring the relationship between socioeconomic factors and California incarceration rates, we aim to identify significant predictors of incarceration rates and recommend policy approaches to mitigate rates within vulnerable communities. This project was completed in collaboration with Kefeng Xiao and Vidith Balasa.
+This project showcases the application of advanced data acquisition techniques coupled with multiple linear regression analysis to explore the relationship between socioeconomic factors and California incarceration rates.
 
 ## Abstract
 
-Our study delves into how community demographics, including race, urban-rural categorizations, proportions of teenagers in communities, unemployment rates, poverty rates, population density, and education levels correlate with incarceration rates. Utilizing data from The Prison Policy Initiative and the United States Census Bureau, we crafted linear regression models to explore the influence of these variables on incarceration rates across California's census tracts.
+Our study delves into how community demographics, including racial demographics, urban-rural categorizations, proportions of teenagers in communities, unemployment rates, poverty rates, population density, and education levels correlate with incarceration rates. Utilizing data from The Prison Policy Initiative and the United States Census Bureau, we fit linear regression models to explore the influence of these variables on incarceration rates across California's census tracts.
 
 ## Dataset
 
-Data was sourced from The Prison Policy Initiative and combined with tract-level socioeconomic information from the 2020 United States Census Bureau. Initial data cleaning focused on preparing and merging these datasets for analysis.
+Data was scraped from The Prison Policy Initiative's website and combined with tract-level socioeconomic information from the 2020 United States Census Bureau. Initial data cleaning focused on preparing and merging these datasets for analysis.
 
 ## Methods
 
